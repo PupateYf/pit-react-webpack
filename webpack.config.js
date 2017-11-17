@@ -42,7 +42,8 @@ var webpackConfig = {
         contentBase: './dist',
         port: 3333,
         inline: true,
-        hot: true
+        hot: true,
+        open: true
     }
 }
 
